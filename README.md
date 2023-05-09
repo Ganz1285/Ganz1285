@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Me:
 student at PSG College of Arts and Science<br>programming Enthusiast , currently playing in Competitive Programming
 
 ## Socials:
